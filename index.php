@@ -12,3 +12,4 @@ echo "Idade: " . $idade . "<br>";
 echo "Curso: " . $curso . "<br>";
 echo "Matrícula: " . $matricula . "<br>";
 echo "E-mail: " . $email;
+echo "<br>Aluno cadastrado com sucesso!";
